@@ -33,9 +33,6 @@
   <a href="https://www.java.com/" target="_blank">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   </a>
-  <a href="https://kotlinlang.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-  </a>
 </div>
 
 ### 🛠️ Công nghệ & Công cụ
