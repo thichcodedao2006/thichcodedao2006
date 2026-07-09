@@ -47,9 +47,9 @@
 ---
 
 ## 📊 Thống kê GitHub
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thichcodedao2006&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&v=1)](https://github.com/thichcodedao2006)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thichcodedao2006&layout=compact&theme=tokyonight&hide_border=true&v=1)](https://github.com/thichcodedao2006)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thichcodedao2006&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 <br/>
 
 <div align="center">
