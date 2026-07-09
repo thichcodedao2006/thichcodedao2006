@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="https://alphacoders.com/your-name-wallpapers" alt="Header Banner" width="100%" />
+</div>
+
+
 # Xin chào 👋, Tôi là Phạm Đan Trường!
 
 <div align="center">
