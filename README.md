@@ -22,11 +22,8 @@
 ## 🚀 Ngôn ngữ & Công nghệ sử dụng
 *Dưới đây là một số ngôn ngữ và công cụ tôi thường xuyên sử dụng trong các dự án của mình:*
 
+### 💻 Ngôn ngữ lập trình
 <div align="left">
-  <!-- Game Dev & Languages -->
-  <a href="https://unity.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
-  </a>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   </a>
@@ -39,8 +36,25 @@
   <a href="https://kotlinlang.org/" target="_blank">
     <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
   </a>
-  <br/>
-  <!-- Databases & Tools -->
+</div>
+
+### 🛠️ Công nghệ & Công cụ
+<div align="left">
+  <!-- Game Engine & Design -->
+  <a href="https://unity.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
+  </a>
+  <a href="https://www.aseprite.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white" alt="Aseprite" />
+  </a>
+  <!-- IDEs & Editors -->
+  <a href="https://visualstudio.microsoft.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio" />
+  </a>
+  <a href="https://developer.android.com/studio" target="_blank">
+    <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
+  </a>
+  <!-- Databases & Version Control -->
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
     <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
   </a>
