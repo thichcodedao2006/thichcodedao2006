@@ -48,10 +48,9 @@
 
 ## 📊 Thống kê GitHub
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thichcodedao2006&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thichcodedao2006&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thichcodedao2006&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&v=1" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thichcodedao2006&layout=compact&theme=tokyonight&hide_border=true&v=1" alt="Top Languages" />
 </div>
-
 <br/>
 
 <div align="center">
