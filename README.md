@@ -3,7 +3,7 @@
 </div>
 
 
-# Xin chào 👋, Tôi là Phạm Đan Trường!
+# Hi there 👋, I'm Pham Dan Truong!
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=Software+%26+Game+Developer;UIT+Undergraduate+Student;Pixel+Art+%26+Sci-fi+Enthusiast" alt="Typing SVG" />
@@ -11,18 +11,18 @@
 
 <br/>
 
-## 👨‍💻 Về bản thân
-- 🎓 Hiện đang là sinh viên năm 2 tại **Trường Đại học Công nghệ Thông tin (UIT)** chuyên ngành Kĩ thuật phần mềm.
-- 🎮 Tôi đam mê phát triển các ứng dụng để tăng độ tiện ích cho công việc cũng như cuộc sống hàng ngày, ngoài ra còn là các thể loại game 2D.
-- 🛠 Tôi đang tập trung phát triển các dự án cả về ứng dụng lẫn game, tích hợp các tính năng cần thiết hơn cho ứng dụng như Backend và Frontend, hay cảm giác feeling và game design đối với game.
-- 🌱 Mục tiêu tương lai: Tôi mong muốn tìm kiếm cơ hội việc làm ở cả mảng phần mềm (Kĩ sư phần mềm) và mảng game (Nhà phát triển game)
+## 👨‍💻 About Me
+- 🎓 I'm a student at the **University of Information Technology (UIT)**, majoring in Software Engineering.
+- 🎮 I'm passionate about building applications that make work and everyday life more convenient, as well as creating 2D games.
+- 🛠 I'm currently focused on developing both applications and games: building out essential features such as Backend and Frontend for apps, and refining game feel and game design for games.
+- 🌱 Future goal: I'm looking for career opportunities in both software (Software Engineer) and games (Game Developer).
 
 ---
 
-## 🚀 Ngôn ngữ & Công nghệ sử dụng
-*Dưới đây là một số ngôn ngữ và công cụ tôi thường xuyên sử dụng trong các dự án của mình:*
+## 🚀 Languages & Technologies
+*Here are some of the languages and tools I frequently use in my projects:*
 
-### 💻 Ngôn ngữ lập trình
+### 💻 Programming Languages
 <div align="left">
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
@@ -35,7 +35,7 @@
   </a>
 </div>
 
-### 🛠️ Công nghệ & Công cụ
+### 🛠️ Technologies & Tools
 <div align="left">
   <!-- Game Engine & Design -->
   <a href="https://unity.com/" target="_blank">
@@ -62,12 +62,12 @@
 
 ---
 
-## 📊 Thống kê GitHub
+## 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thichcodedao2006&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 <br/>
 
 <div align="center">
-  <i>Sẵn sàng học hỏi và đón nhận những thử thách mới!</i> 🚀
+  <i>Always eager to learn and ready to take on new challenges!</i> 🚀
 </div>
